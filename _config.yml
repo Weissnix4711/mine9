@@ -26,12 +26,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   We run servers for all your favourite games, including:
   Minecraft, Terraria, Garry's mod, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.mine9.tk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.mine9.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en_GB
 logo: favicon.png
 
 # Game details
-play-address: play.mine9.tk
+play-address: play.mine9.xyz
 
 # Social
 # twitter_username: jekyllrb
